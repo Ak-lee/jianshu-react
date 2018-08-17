@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id": 2,
+            "title": "旅行•在路上",
+            "imgUrl": "//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        }],
+        "articleList": [{
+            "id": 1,
+            "title": "《如何阅读一本好书》‖ 阅读一定要有方法",
+            "desc": "文/幼稚着我的幼稚 良好的方法能使我们更好地发挥天赋的才能,而拙劣的方法则可能妨碍才能的发挥。...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/1115871-f634c273f8da437c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 2,
+            "title": "《如何阅读一本好书》‖ 阅读一定要有方法",
+            "desc": "文/幼稚着我的幼稚 良好的方法能使我们更好地发挥天赋的才能,而拙劣的方法则可能妨碍才能的发挥。...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/1115871-f634c273f8da437c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 3,
+            "title": "《如何阅读一本好书》‖ 阅读一定要有方法",
+            "desc": "文/幼稚着我的幼稚 良好的方法能使我们更好地发挥天赋的才能,而拙劣的方法则可能妨碍才能的发挥。...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/1115871-f634c273f8da437c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 4,
+            "title": "《如何阅读一本好书》‖ 阅读一定要有方法",
+            "desc": "文/幼稚着我的幼稚 良好的方法能使我们更好地发挥天赋的才能,而拙劣的方法则可能妨碍才能的发挥。...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/1115871-f634c273f8da437c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        }],
+        "recomendList": [{
+            "id": 1,
+            "imgUrl": "http://pcf9egs2p.bkt.clouddn.com/jianshuCopyright.png"
+        },{
+            "id": 2,
+            "imgUrl": "http://pcf9egs2p.bkt.clouddn.com/jianshuHot.png"
+        }],
+        "writerList": [{
+            "id": 1,
+            "imgUrl": "http://upload.jianshu.io/users/upload_avatars/11557689/ed2ea7f3-9d7d-41fc-a05a-daebb8097b0c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+            "name": "简书大课堂",
+            "wordsNumber": "172.7k",
+            "followerNumber": "1.2k"
+        },{
+            "id": 2,
+            "imgUrl": "http://upload.jianshu.io/users/upload_avatars/3090078/f1cdcde073ec.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+            "name": "雨落荒原",
+            "wordsNumber": "291.1k",
+            "followerNumber": "4.1k"
+        }]
+    }
+}
